@@ -52,7 +52,7 @@ The project focuses on promoting environmental sustainability by suggesting plan
 ### 3. Values Filled Manually in Input Boxes
 ![P3](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/assets/96729663/ff83477c-0300-460d-995d-de78d86d4bac)
 
-### 3.* Dashboard Interface 
+### 3. Dashboard Interface 
 ![P4](https://github.com/GeekyChirag-030/Botanix-Brain_HW-SW/assets/96729663/de1fe637-f405-4ea6-b1d6-1bb8fc47ad35)
 
 ### 4. Prediction Details
